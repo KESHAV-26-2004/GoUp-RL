@@ -41,7 +41,7 @@ The complete game engine, environment, and AI training pipeline are developed fr
 # 🎮 AI Gameplay Demo
 
 <p align="center">
-<video src="demo/gameplay.mp4" controls width="900"></video>
+https://github.com/user-attachments/assets/e3d7c148-16e2-41f9-b8b5-45efd3c75ca5
 </p>
 
 The trained agent can autonomously control the player and navigate through randomly generated platform layouts.
